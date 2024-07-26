@@ -1,5 +1,5 @@
 ---
-title: "Text Mining Basics with Python"
+title: "Text Mining Basics with Python!"
 subtitle: "Lab 1: Code-Along"
 
 format:
